@@ -52,7 +52,7 @@
 .main .titulo{
     font-size: 30px;
     color: #FFFFFF;
-    width: 30%;
+    width: 11ch;
     text-align: center;
 }
 
@@ -60,6 +60,7 @@
 @media screen and (min-width: 769px) {
     .main .titulo{
         font-size: 40px;  
+        
     }
     .header{
         display: flex;
