@@ -17,6 +17,8 @@
 .header .logo{
     width: 155px;
     
+    
+    
 }
 
 .header .menu{
@@ -50,6 +52,12 @@
 .main .titulo{
     font-size: 30px;
     color: #FFFFFF;
-    width: 50%;
+    width: 30%;
+    text-align: center;
 
 }
+
+    }
+
+}
+    
