@@ -20,6 +20,7 @@
 .header .logo{
     width: 155px;  
     padding-top: 10px;
+   
 }
 
 
@@ -38,14 +39,15 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-    margin-top: 10px;
-    margin-bottom: 13px;
+    padding-top: 10px;
+    padding-bottom: 13px;
     list-style: none;
     text-transform: uppercase;
     
 }
 .link{
     padding: 10px;
+    padding-bottom: 13px;
     text-decoration: none;
     color:#4a4a4a;
 }
@@ -84,7 +86,9 @@
         padding-top: 20px;
         padding-bottom: 10px;
         padding-left: 10px;
-        margin: 0;
+        margin-top: 30px;
+     
+       
         
     }
     .link{
